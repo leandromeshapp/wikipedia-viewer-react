@@ -226,7 +226,7 @@ class App extends Component {
 
       <div className="random">
         <a href="https://en.wikipedia.org/wiki/Special:Random" rel="noopener noreferrer" target="_blank">
-          <button type="button" className="btn btn-success">Get A Random Article!</button> <br/>
+          <button type="button" className="btn btn-success">Get Random Article!</button> <br/>
         </a>
       </div>
 
